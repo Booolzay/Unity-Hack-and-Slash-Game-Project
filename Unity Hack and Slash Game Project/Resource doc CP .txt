@@ -1,0 +1,13 @@
+** Model and Animation For Character  - https://www.mixamo.com/#/?page=1&query=walk&type=Motion%2CMotionPack
+** Watch -  https://www.youtube.com/watch?v=5ozKp5qC4aA
+https://www.youtube.com/watch?v=U0dlWhB_e0E
+
+**Health Obj source - https://sketchfab.com/3d-models/rpg-health-relic-work-in-progress-4b6dc3367e514d25ab1c776232b80810
+** Hit Particle Source - https://www.google.com/search?q=sparkle+png&client=opera&hs=3kx&sxsrf=ALeKk003shj5akF_KlIYcieXlQ7hYIlpHg:1591929920129&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj44pWLofvpAhULSRUIHRiTDssQ_AUoAXoECA8QAw&biw=1880&bih=949#imgrc=y9LhNS3-bNJqyM
+**PLayer hit sfx : https://freesound.org/people/shelbyshark/sounds/444703/
+**player Footstep sfx: https://freesound.org/people/InspectorJ/sounds/397946/
+**Sword SFX1: https://freesound.org/people/Streety/sounds/30248/
+**Sword SFX2: https://freesound.org/people/LukeSharples/sounds/209081/
+**Sword SFX3: https://freesound.org/people/byronabadia/sounds/444950/
+**Enemy hit SFX: https://freesound.org/people/florianreichelt/sounds/460509/
+**Enemy Death / score SFX: https://freesound.org/people/Scrampunk/sounds/345297/
